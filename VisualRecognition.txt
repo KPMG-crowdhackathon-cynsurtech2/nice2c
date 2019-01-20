@@ -1,0 +1,7 @@
+With the use of the IBM Watson Visual recognition tool we can make sure
+that the pictures taken are from an actual car accident and they have to be
+considered.
+
+This will happen at the same time as the pictures are taken and before
+the pictures are sent to the insurance company and to the people who work there.
+Therefore, this will reduce the spam, if any, and the false accusations.

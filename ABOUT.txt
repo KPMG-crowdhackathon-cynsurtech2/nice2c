@@ -1,0 +1,12 @@
+This application is capable of solving a really common problem.
+
+By the use of this application the user/client of the insurance company
+can fill the form avoiding the time taken by the insurer to be present to
+that location.
+
+The user can take 2 pictures an up-close to the damage and another picture
+from a bit far away so the plates and both cars will be shown.
+
+These pictures will be send to a visual recognition A.I. which will then
+score the pictures depending if they are truly pictures of cars that have
+had a collision or damage in any sort.
