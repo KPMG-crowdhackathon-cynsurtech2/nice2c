@@ -1,0 +1,7 @@
+This is going on to the Payment tab from the side menu.
+Payments are going to be directly transmitted to the Insurance companies.
+
+By pressing the Confirm Payment Button from the payment tab on the side menu
+the Payments-API from the Bank Of Cyprus will be used to make the payment.
+
+***here's the api that will be used: https://developer.bankofcyprus.com/psd2payments
