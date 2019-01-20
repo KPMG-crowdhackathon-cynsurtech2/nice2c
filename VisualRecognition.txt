@@ -5,3 +5,8 @@ considered.
 This will happen at the same time as the pictures are taken and before
 the pictures are sent to the insurance company and to the people who work there.
 Therefore, this will reduce the spam, if any, and the false accusations.
+
+
+
+*** The API that will be used is the API by the IBM Watson programme
+*** here's the link to it: https://gateway.watsonplatform.net/visual-recognition/api
